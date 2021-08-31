@@ -1,11 +1,12 @@
 ## 👋 Olá Pessoal! 👋
 - :woman: Me chamo, Aline!
-- :milky_way: Observadora do Universo ...
+- :milky_way: Sou apenas uma observadora do Universo ...
 - 🌱 Que está em eterno aprendizado ...
 - 💞️ Estou colaborando a minha jornada Dev ...
 - :four_leaf_clover: Me desejem sorte ...
 
-<!---
-alinealien/alinealien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/alinealien">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinealien&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinealien&layout=compact&langs_count=7&theme=radical"/>
+</div>
