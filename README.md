@@ -5,6 +5,11 @@
 - 💞️ Estou colaborando a minha jornada Dev ...
 - :four_leaf_clover: Me desejem sorte ...
 
+-PROJETOS NO VERCEL : 
+* https://aluracord-matrix-delta-ochre.vercel.app/
+* https://dev-week-java-test.vercel.app/exames
+* https://angular-marketplace.vercel.app/
+
 ##
 
 <div>
