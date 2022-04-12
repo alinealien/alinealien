@@ -6,6 +6,7 @@
 - :four_leaf_clover: Me desejem sorte ...
 
 -PROJETOS NO VERCEL : 
+* https://vercel.com/alinealien/game-jogo-estilo-naves
 * https://aluracord-matrix-delta-ochre.vercel.app/
 * https://dev-week-java-test.vercel.app/exames
 * https://angular-marketplace.vercel.app/
