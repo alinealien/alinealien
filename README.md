@@ -6,11 +6,11 @@
 - :four_leaf_clover: Me desejem sorte ...
 
 -PROJETOS NO VERCEL : 
- ####JAVASCRIPT
+  JAVASCRIPT
 - https://game-jogo-estilo-naves.vercel.app/
 - https://aluracord-matrix-delta-ochre.vercel.app/
   
- ####JAVA + ANGULAR + SPRING BOOT</p>
+  JAVA + ANGULAR + SPRING BOOT</p>
 - https://dev-week-java-test.vercel.app/exames
 - https://angular-marketplace.vercel.app/
 - https://api-rest-extrato-bancario.vercel.app/movimentacoes
