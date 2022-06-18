@@ -9,7 +9,6 @@
   
   JAVASCRIPT
 - https://game-jogo-estilo-naves.vercel.app/
-- https://aluracord-matrix-delta-ochre.vercel.app/
   
  JAVA + ANGULAR + SPRING BOOT</p>
 - https://dev-week-java-test.vercel.app/exames
