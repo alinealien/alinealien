@@ -14,11 +14,7 @@
 - https://dev-week-java-test.vercel.app/exames
 - https://angular-marketplace.vercel.app/
 - https://api-rest-extrato-bancario.vercel.app/movimentacoes
-
-##
-
-
-  
+ 
   ##
   
   <div style="display: inline_block"><br>
