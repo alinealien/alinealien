@@ -1,9 +1,10 @@
-## Seja Bem-Vindo! :star:
-- :alien: Me chamo, Aline! 
-- :milky_way: Sou apenas uma observadora do Universo ...
-- 🌱 Que está em eterno aprendizado ...
-- 💞️ Estou colaborando a minha jornada Dev ...
-- :four_leaf_clover: Me desejem sorte ...
+## Bem-Vindos ao meu GitHub! :star:
+- :alien: Me chamo, Aline! Sou Brasileira e Nordestina com todo orgulho 💞️
+- Sou Técnica em Manutenção e Suporte ao Computador pela UFRN
+- E Licenciada em Computação pela UFERSA
+- :milky_way: Sou uma grande observadora do Universo que está em eterno aprendizado 
+- 💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação 
+- :four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que assim como eu, são apaixonados por Programação!
 
 ### PROJETOS NO VERCEL : 
   
@@ -26,8 +27,7 @@
   <img align="center" alt="Aline-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aline-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aline-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Aline-Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  
+  <img align="center" alt="Aline-Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
 </div>
 
   ##
