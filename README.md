@@ -30,9 +30,4 @@
 <img align="center" alt="Aline-Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
 </div>
 
-##
 
-<div> 
-<a href = "mailto:alinebdantunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
-<a href="https://www.linkedin.com/in/aline-antunes-a908a6174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
-<a href="https://www.instagram.com/allineantunnes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4" target="_blank" align="center"></a> 
