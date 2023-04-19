@@ -10,6 +10,7 @@
   
   JAVASCRIPT
 - https://game-jogo-estilo-naves.vercel.app/
+- https://alinealien.github.io/jogo-da-velha/
   
  JAVA + ANGULAR + SPRING BOOT</p>
 - https://dev-week-java-test.vercel.app/exames
