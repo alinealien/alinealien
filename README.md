@@ -10,6 +10,7 @@
 ## ALGUNS PROJETOS FRONTEND: 
 
 ### JAVASCRIPT
+- https://alinealien.github.io/projeto-detona-ralph/
 - https://game-jogo-estilo-naves.vercel.app/
 - https://alinealien.github.io/jogo-da-velha/
 
