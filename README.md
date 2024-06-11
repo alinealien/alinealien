@@ -7,25 +7,6 @@
 💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação  
 :four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
-## ALGUNS PROJETOS FRONTEND: 
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alinealien&repo=projeto-detona-ralph&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alinealien/projeto-detona-ralph)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alinealien&repo=game_jogo_estilo_naves&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alinealien/game_jogo_estilo_naves)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alinealien&repo=jogo-da-velha&bg_color=000000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alinealien/jogo-da-velha)
-
-
-### JAVASCRIPT
-- https://alinealien.github.io/projeto-detona-ralph/
-- https://game-jogo-estilo-naves.vercel.app/
-- https://alinealien.github.io/jogo-da-velha/
-
-### JAVA + ANGULAR + SPRING BOOT
-- https://dev-week-java-test.vercel.app/exames
-- https://angular-marketplace.vercel.app/
-- https://api-rest-extrato-bancario.vercel.app/movimentacoes
-
 <div align="center">
 <div style="display: inline_block"><br>
 <img align="center" alt="Aline-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -38,10 +19,4 @@
 </div>
 
 <br>
-
-<div>
-<a href="https://github.com/alinealien">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinealien&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alinealien&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
